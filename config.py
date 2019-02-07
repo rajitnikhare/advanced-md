@@ -16,10 +16,10 @@ class config(object):
     }
     
     AWS_CONFIG = {
-        'ACCESS_KEY_ID':'AKIAIULNFWXECF5LSPDA',
-        'SECRET_ACCESS_KEY':'/X66CZpPvGPIxwAJtnL53hG01GudwVQZ3E1HZGkwv',
-        'host':'s3.us-west-2.amazonaws.com',
-        'bucket': 'datasource-s3-a1',
+        'ACCESS_KEY_ID':'',
+        'SECRET_ACCESS_KEY':'',
+        'host':'',
+        'bucket': '',
         'key':'datasource-s3-b/punch_card.json'
     }
 
